@@ -1,0 +1,22 @@
+cd c: - Changing to drive c
+ls - list of the files in the drive
+ls -a - to see hidden files
+clear - to clear the window
+cd .. - moving to the previous folder
+mkdir <directory name> - to create directory or folder
+touch <file name with extension> - to create new file
+cd \ - to come to orginal state
+rm <file name> - to remove file 
+help - for some commands
+cat - display the content of the file
+ls -l - permission with the file
+vi <file name> i - to put in insert mode
+esc :wq - to save and quit 
+mv - to move the content
+.git - local repository
+git init - to create git folder that is hidden and helps to track the files
+pwd - present working directory
+git add - to move file from working area to staging area
+git status - to know the status of the staging area
+git commit -m "login code added" - 
+
